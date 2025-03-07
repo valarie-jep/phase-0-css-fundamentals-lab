@@ -3,3 +3,36 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+.header {
+  text-align: center;
+}
+header a {
+  background-color: rgb(214, 210, 210);
+}
+#featured-property p {
+  margin-right: 500px;
+  margin-left: 500px;
+}
+#featured-property {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+#details {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  background-color: orangered;
+}
